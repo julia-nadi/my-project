@@ -1,2 +1,2 @@
-# my-project
+# portfolio
 this is my repo
