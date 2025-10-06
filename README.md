@@ -1,5 +1,4 @@
-# project
-this is my repo
+
 #  Car Website
 
 This repository contains a simple and modern **Car Website** built using **HTML, CSS, and JavaScript**.  
